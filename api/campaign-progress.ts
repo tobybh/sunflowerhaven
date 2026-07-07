@@ -7,9 +7,7 @@ const DEFAULT_SHEET_URL =
 const SHEET_URL = process.env.CAMPAIGN_SHEET_URL ?? DEFAULT_SHEET_URL;
 
 const stripe = process.env.STRIPE_SECRET_KEY
-  ? new Stripe(process.env.STRIPE_SECRET_KEY, {
-      apiVersion: "2024-06-20" as Stripe.LatestApiVersion,
-    })
+  ? new Stripe(process.env.STRIPE_SECRET_KEY)
   : null;
 
 export default async function handler(
