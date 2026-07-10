@@ -67,6 +67,9 @@ export function Home() {
                 The Campaign
               </div>
               <Logo size={48} className="mb-5" />
+              <div className="text-[11px] uppercase tracking-[0.25em] text-[#698F72] font-semibold mb-1">
+                Initial Goal
+              </div>
               <div
                 className="text-6xl md:text-7xl text-[#1F3247] leading-none mb-3"
                 style={{ fontFamily: 'var(--font-display)' }}

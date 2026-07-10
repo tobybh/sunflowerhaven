@@ -120,7 +120,7 @@ export function WhyDonate() {
                     {formatCompactDollars(campaign.goalCents)}
                   </div>
                   <div className="text-xs uppercase tracking-[0.25em] text-[#698F72] font-semibold mb-6">
-                    Campaign Goal
+                    Initial Goal
                   </div>
                   <div className="flex items-end justify-between mb-2">
                     <div>
