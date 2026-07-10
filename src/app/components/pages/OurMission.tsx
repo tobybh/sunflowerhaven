@@ -20,7 +20,7 @@ export function OurMission() {
           <div className="bg-yellow-50 p-8 rounded-lg mb-12">
             <h2 className="text-2xl mb-4">What We Believe</h2>
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
-              Every woman deserves to live free from fear and violence. At Sunflower Haven,
+              Every person deserves to live free from fear and violence. At Sunflower Haven,
               we believe that with the right support, resources, and community, survivors can
               not only escape their abusers but thrive in their new independence.
             </p>
