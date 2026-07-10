@@ -64,8 +64,7 @@ export function OurMission() {
               <div>
                 <h3 className="text-xl mb-2">Empowerment</h3>
                 <p className="text-gray-600">
-                  We help survivors reclaim their independence through education,
-                  job training, and life skills development.
+                  We support survivors as they work to reclaim their independence.
                 </p>
               </div>
             </div>
