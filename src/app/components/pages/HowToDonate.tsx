@@ -12,10 +12,10 @@ import {
 } from "lucide-react";
 
 const PRESETS = [
-  { value: 50 },
   { value: 100 },
   { value: 250 },
   { value: 500 },
+  { value: 1000 },
 ];
 
 type Selection = number | "custom";
