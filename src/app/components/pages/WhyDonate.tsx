@@ -93,7 +93,7 @@ export function WhyDonate() {
                     Initial Goal
                   </div>
                   <div
-                    className="text-3xl text-[#1F3247]"
+                    className="text-4xl text-[#132030]"
                     style={{ fontFamily: 'var(--font-display)' }}
                   >
                     $300,000
