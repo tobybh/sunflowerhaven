@@ -272,9 +272,9 @@ export function HowToDonate() {
             </div>
 
             <p className="text-sm text-[#5b6b5f] mt-6">
-              <strong className="text-[#2c3a30]">Tax Deductible:</strong> Sunflower Haven is
-              applying for 501(c)(3) status (expected mid-July 2026). Receipts will be issued
-              upon approval.
+              <strong className="text-[#2c3a30]">Tax Deductible:</strong> Sunflower Haven is a
+              501(c)(3) charity. Your donation is tax-deductible to the extent allowed by law,
+              and Stripe will email you a receipt.
             </p>
           </div>
 

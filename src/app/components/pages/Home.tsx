@@ -56,7 +56,7 @@ export function Home() {
             </div>
             <div className="flex items-center gap-3 mt-8 text-xs tracking-wider text-[#2D2A26]/60">
               <span className="w-1.5 h-1.5 rounded-full bg-[#C77B5C]" />
-              <span>501(c)(3) charity · mid-July 2026</span>
+              <span>501(c)(3) charity</span>
             </div>
           </div>
 
