@@ -8,7 +8,7 @@ export function OurMission() {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl mb-6">Our Mission</h1>
           <p className="text-xl text-green-100">
-            To provide safe housing, support services, and resources that empower women
+            To provide safe housing, support services, and resources that empower people
             to escape domestic violence and rebuild their lives with dignity and independence.
           </p>
         </div>
@@ -77,7 +77,7 @@ export function OurMission() {
               <div>
                 <h3 className="text-xl mb-2">Long-Term Success</h3>
                 <p className="text-gray-600">
-                  We focus on sustainable solutions that help women achieve lasting
+                  We focus on sustainable solutions that help people achieve lasting
                   independence and break the cycle of violence.
                 </p>
               </div>
