@@ -88,6 +88,17 @@ export function WhyDonate() {
                 <div className="inline-flex items-center gap-2 bg-[#FFCF63] text-[#1F3247] text-[11px] font-bold tracking-[0.25em] uppercase px-4 py-1.5 rounded-full mb-5">
                   The Campaign
                 </div>
+                <div className="mb-5">
+                  <div className="text-[11px] uppercase tracking-[0.25em] text-[#698F72] font-semibold">
+                    Initial Goal
+                  </div>
+                  <div
+                    className="text-3xl text-[#1F3247]"
+                    style={{ fontFamily: 'var(--font-display)' }}
+                  >
+                    $300,000
+                  </div>
+                </div>
                 <h2
                   className="text-4xl md:text-5xl text-[#1F3247] mb-4 leading-[1.05]"
                   style={{ fontFamily: 'var(--font-display)' }}
