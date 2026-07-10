@@ -25,9 +25,8 @@ export function OurMission() {
               not only escape their abusers but thrive in their new independence.
             </p>
             <p className="text-gray-700 text-lg leading-relaxed">
-              We are committed to providing more than just shelter—we offer a comprehensive
-              support system that addresses the complex needs of domestic violence survivors
-              and their children.
+              We are committed to providing more than just shelter—we are providing a home
+              and a step towards a life free from violence.
             </p>
           </div>
 
