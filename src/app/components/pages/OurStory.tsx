@@ -30,15 +30,11 @@ export function OurStory() {
           }}
         />
         <div className="relative max-w-4xl mx-auto px-6 py-20 text-center">
-          <div className="text-xs tracking-[0.3em] uppercase text-[#1F3247] font-semibold mb-5">
-            Our Story
-          </div>
           <h1
             className="text-4xl md:text-5xl text-[#1F3247] leading-[1.05]"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            Founded by advocates,{" "}
-            <span className="italic text-[#698F72]">driven by compassion.</span>
+            Our Story
           </h1>
         </div>
       </section>
