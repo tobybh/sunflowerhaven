@@ -44,53 +44,35 @@ export function OurStory() {
         <div className="max-w-3xl mx-auto">
           <div className="bg-white border border-[#e7e1d2] rounded-2xl p-8 md:p-12 shadow-sm">
             <div className="text-xs tracking-[0.25em] uppercase text-[#698F72] font-semibold mb-5">
-              From Our Cofounder
+              How We Started
             </div>
             <div className="space-y-5 text-[#2D2A26]/85 leading-relaxed text-[17px]">
               <p>
-                Sunflower Haven provides transitional housing for people fleeing
-                domestic violence.
+                As longtime friends and Chesterton neighbors, Mimi Hurst and Lori
+                Devereaux talked about giving back and doing more. Mimi, as a 15-year
+                Duneland School Corporation counselor, had been noticing that there
+                were few resources for domestic violence victims in the Chesterton
+                area — and that it was needed.
               </p>
               <p>
-                I worked with a 10-year-old student who came to school in shock and
-                visibly shaking. His stepdad had pulled a gun on his mom that morning
-                and threatened to kill her. The student did not know if his mom was
-                dead or alive. Police were called. Fortunately, the mom had not been
-                shot. The man was arrested, an order of protection was issued, and
-                Child Protective Services was involved.
+                The two of them met with The Caring Place in Valparaiso, Indiana, the
+                only domestic violence shelter in Porter County. At their visit, Mimi
+                asked, <em>"How can we help?"</em> The Director replied,{" "}
+                <em>"What we really need in this area is transitional housing."</em>{" "}
+                At that statement, a charity was started.
               </p>
               <p>
-                For the first six months, the system was working for this family.
-                The mom and her two children were living in a home free from violence
-                and moving forward.
+                Mimi had the experience in domestic violence and Lori had the
+                experience as a residential home builder and landlord to several
+                rentals. It was the perfect combination.
               </p>
               <p>
-                The mom then came to me frantic. Her abuser was out of jail, he had
-                resources for an attorney, and because their house was only in his
-                name, she was being forced to move. I could not believe it. The mom
-                had limited resources. There were no good options for housing for
-                this mom and her two young children. It was heartbreaking. They ended
-                up in a small apartment in a rough apartment complex. For my student,
-                this was very challenging and confusing.
-              </p>
-              <p>
-                As a school counselor for 15 years, I had students every year who
-                experienced domestic violence in their home. Having worked at a
-                domestic violence shelter, I knew about the cycle of violence and
-                how hard it can be for someone to leave a violent situation —
-                especially when children are involved. I wanted to do something.
-              </p>
-              <p>
-                In November 2025, with the help of two best friends, Sunflower Haven
-                was founded.
+                Within months the two had formed this charity, found a good starter
+                rental, furnished it, and welcomed their first residents from the
+                shelter to their home. They were also excited to invite their
+                longtime friend and school teacher, Kim Parks, to join their board.
               </p>
             </div>
-            <footer
-              className="text-[#4a6a52] mt-8 text-lg"
-              style={{ fontFamily: "var(--font-display)", fontStyle: "italic" }}
-            >
-              — Mimi Hurst
-            </footer>
           </div>
         </div>
       </section>
