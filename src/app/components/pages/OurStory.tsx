@@ -7,7 +7,7 @@ const BOARD = [
   {
     name: "Mimi Hurst",
     role: "Board Member / Founder",
-    bio: "Mimi is a retired school counselor. After college, Mimi did a year of volunteer work through the Jesuit Volunteer Corps, placed as a child advocate at a domestic violence shelter. Before returning to school to become a school counselor, Mimi worked in the investment field in Chicago primarily trading municipal bonds.",
+    bio: "Mimi is a retired school counselor. After college, Mimi did a year of volunteer work through the Jesuit Volunteer Corps. Her placement was as a child advocate at a domestic violence shelter. Before returning to school to become a school counselor, Mimi worked in the investment field in Chicago.",
   },
   {
     name: "Kim Parks",

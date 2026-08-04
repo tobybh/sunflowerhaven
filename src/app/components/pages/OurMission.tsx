@@ -88,7 +88,7 @@ export function OurMission() {
             <ul className="space-y-3 text-gray-700">
               <li className="flex gap-3">
                 <span className="text-green-700">•</span>
-                <span>Emergency and transitional housing in a secure, confidential location</span>
+                <span>Transitional housing in a secure, confidential location</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-green-700">•</span>

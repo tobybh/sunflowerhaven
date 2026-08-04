@@ -55,9 +55,9 @@ export function Layout() {
       {/* Header */}
       <header className="bg-[#fbf9f4]/95 backdrop-blur border-b border-[#e7e1d2] sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-20">
+          <div className="flex items-center justify-between h-24">
             <Link to="/" className="flex items-center gap-3 group" aria-label="Sunflower Haven home">
-              <Wordmark height={52} className="shrink-0" />
+              <Wordmark height={72} className="shrink-0" />
               <span className="hidden xl:inline-block text-[10px] tracking-[0.22em] uppercase text-[#698F72] border-l border-[#e7e1d2] pl-3 ml-1">
                 Chesterton, IN
               </span>
@@ -152,7 +152,7 @@ export function Layout() {
                 Transitional housing and comprehensive support for women rebuilding
                 their lives in Chesterton, Indiana.
               </p>
-              <p className="text-[#9fb3a4] text-xs mt-3 tracking-wider uppercase">Est. 2024</p>
+              <p className="text-[#9fb3a4] text-xs mt-3 tracking-wider uppercase">Est. 2025</p>
             </div>
             <div>
               <h4 className="text-white font-semibold mb-4 tracking-wide">Emergency Resources</h4>

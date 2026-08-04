@@ -152,7 +152,7 @@ export function Contact() {
                   <div className="text-sm">
                     <p className="font-semibold text-yellow-900 mb-1">Privacy Note</p>
                     <p className="text-yellow-800">
-                      For the safety of our residents, our shelter location is confidential.
+                      For the safety of our residents, our housing location is confidential.
                       If you need emergency housing, please email us or call the National Hotline at 1-800-799-7233.
                     </p>
                   </div>
@@ -232,7 +232,6 @@ export function Contact() {
                       defaultValue="General Inquiry"
                     >
                       <option>General Inquiry</option>
-                      <option>Volunteer Opportunities</option>
                       <option>Donation Questions</option>
                       <option>Mailing Address Request</option>
                       <option>Partnership/Collaboration</option>
@@ -292,16 +291,7 @@ export function Contact() {
           {/* Additional Resources */}
           <div className="bg-gray-50 p-8 rounded-lg">
             <h2 className="text-2xl mb-6">How You Can Help</h2>
-            <div className="grid md:grid-cols-3 gap-6">
-              <div>
-                <h3 className="font-semibold mb-2">Volunteer</h3>
-                <p className="text-gray-600 text-sm mb-2">
-                  Interested in volunteering? We'd love to have you join our team.
-                </p>
-                <a href="mailto:SunflowerHavenIndiana@gmail.com" className="text-green-700 hover:underline text-sm">
-                  Email us to learn more
-                </a>
-              </div>
+            <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <h3 className="font-semibold mb-2">Donations</h3>
                 <p className="text-gray-600 text-sm mb-2">

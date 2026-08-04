@@ -299,15 +299,14 @@ export function HowToDonate() {
             </div>
             <p className="text-[#5b6b5f] mb-5">
               Prefer to donate by mail? Checks should be made payable to{" "}
-              <strong className="text-[#2c3a30]">Sunflower Haven</strong>. For the safety
-              of our residents, our mailing address is shared on request — please reach
-              out and we'll send it to you directly.
+              <strong className="text-[#2c3a30]">Sunflower Haven</strong>. Please email us
+              below and we'll send our mailing address to you directly.
             </p>
             <Link
               to="/contact"
               className="inline-flex items-center gap-2 bg-[#4a6a52] hover:bg-[#3b5642] text-white px-6 py-3 rounded-full font-semibold transition-colors"
             >
-              Request our mailing address <ArrowRight className="w-4 h-4" />
+              Email us <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
 
@@ -330,10 +329,6 @@ export function HowToDonate() {
               <div>
                 <h4 className="font-semibold mb-1 text-[#2c3a30]">Planned Giving</h4>
                 <p>Leave a lasting legacy through bequests, trusts, or beneficiary designations.</p>
-              </div>
-              <div>
-                <h4 className="font-semibold mb-1 text-[#2c3a30]">Volunteer Your Time</h4>
-                <p>Share your skills and time to directly support survivors. Contact us to learn about opportunities.</p>
               </div>
               <div>
                 <h4 className="font-semibold mb-1 text-[#2c3a30]">Host a Fundraiser</h4>
