@@ -58,7 +58,7 @@ export function Layout() {
           <div className="flex items-center justify-between h-20">
             <Link to="/" className="flex items-center gap-3 group" aria-label="Sunflower Haven home">
               <Wordmark height={52} className="shrink-0" />
-              <span className="hidden xl:inline-block text-[10px] tracking-[0.22em] uppercase text-[#698F72] border-l border-[#e7e1d2] pl-3 ml-1">
+              <span className="hidden xl:inline-block text-[10px] tracking-[0.22em] uppercase text-[#3E5C48] border-l border-[#e7e1d2] pl-3 ml-1">
                 Chesterton, IN
               </span>
             </Link>
