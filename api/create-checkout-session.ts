@@ -63,7 +63,7 @@ export default async function handler(
                 ? "Sunflower Haven Monthly Donation"
                 : "Sunflower Haven Charitable Contribution",
               description:
-                "Supporting transitional housing and services for women in Chesterton, IN.",
+                "Supporting transitional housing and services for adults in Chesterton, IN.",
             },
             ...(recurring ? { recurring: { interval: "month" as const } } : {}),
           },

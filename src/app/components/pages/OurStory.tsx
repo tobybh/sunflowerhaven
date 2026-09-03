@@ -51,7 +51,7 @@ export function OurStory() {
                 As longtime friends and Chesterton neighbors, Mimi Hurst and Lori
                 Devereaux talked about giving back and doing more. Mimi, as a 15-year
                 Duneland School Corporation counselor, had been noticing that there
-                were few resources for domestic violence victims in the Chesterton
+                were few resources for survivors of domestic violence in the Chesterton
                 area — and that it was needed.
               </p>
               <p>

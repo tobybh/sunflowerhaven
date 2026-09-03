@@ -21,7 +21,7 @@ export function WhyDonate() {
             Why Donate
           </h1>
           <p className="text-lg text-[#e8efe9]">
-            Your contribution directly transforms lives and provides hope to women
+            Your contribution directly transforms lives and provides hope to adults
             rebuilding their futures.
           </p>
         </div>
@@ -36,7 +36,7 @@ export function WhyDonate() {
           <div className="prose max-w-none mb-12">
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
               Every year, over 12 million Americans endure the devastating reality of intimate partner violence.
-              Here in Indiana, the crisis is staggering: nearly 43% of women and 28% of men will be targeted
+              Here in Indiana, the crisis is staggering: nearly 43% of adults will be targeted
               in their lifetimes.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
@@ -46,7 +46,7 @@ export function WhyDonate() {
               children.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              When victims finally summon the immense courage to reach out, they desperately need a safe place
+              When survivors of domestic violence finally summon the immense courage to reach out, they desperately need a safe place
               to land. Tragically, local programs are overwhelmed. On any given day in Indiana, hundreds of
               desperate pleas for help go unanswered simply because the resources do not exist—and year after
               year, the need only grows.
@@ -60,7 +60,7 @@ export function WhyDonate() {
               than just writing a check; you are giving a terrified person a genuine, lasting escape from violence.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              Every single dollar you donate goes directly to supporting victims and survivors. Join us in
+              Every single dollar you donate goes directly to supporting survivors of domestic violence. Join us in
               fighting this invisible epidemic. Give today, and be the lifeline someone desperately needs.
             </p>
             <p className="text-sm text-gray-600">
@@ -168,7 +168,7 @@ export function WhyDonate() {
             <h2 className="text-2xl mb-4">Every Gift Matters</h2>
             <p className="text-gray-700 mb-6 text-lg">
               Whether you give $25 or $2,500, you're providing safety, hope, and a
-              path to independence for women in crisis.
+              path to independence for adults in crisis.
             </p>
             <Link
               to="/donate"
