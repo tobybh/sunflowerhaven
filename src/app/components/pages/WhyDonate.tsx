@@ -46,7 +46,7 @@ export function WhyDonate() {
               children.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              When victims finally summon the immense courage to reach out, they desperately need a safe place
+              When survivors of domestic violence finally summon the immense courage to reach out, they desperately need a safe place
               to land. Tragically, local programs are overwhelmed. On any given day in Indiana, hundreds of
               desperate pleas for help go unanswered simply because the resources do not exist—and year after
               year, the need only grows.
@@ -60,7 +60,7 @@ export function WhyDonate() {
               than just writing a check; you are giving a terrified person a genuine, lasting escape from violence.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              Every single dollar you donate goes directly to supporting victims and survivors. Join us in
+              Every single dollar you donate goes directly to supporting survivors of domestic violence. Join us in
               fighting this invisible epidemic. Give today, and be the lifeline someone desperately needs.
             </p>
             <p className="text-sm text-gray-600">
