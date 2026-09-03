@@ -194,7 +194,7 @@ export function Home() {
             {[
               {
                 stat: "1 in 3",
-                label: "Indiana adults experience intimate partner violence in their lifetime",
+                label: "Indiana women experience intimate partner violence in their lifetime",
                 source: "IN Coalition Against Domestic Violence",
               },
               {
