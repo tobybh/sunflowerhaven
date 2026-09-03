@@ -21,7 +21,7 @@ export function WhyDonate() {
             Why Donate
           </h1>
           <p className="text-lg text-[#e8efe9]">
-            Your contribution directly transforms lives and provides hope to women
+            Your contribution directly transforms lives and provides hope to adults
             rebuilding their futures.
           </p>
         </div>
@@ -36,7 +36,7 @@ export function WhyDonate() {
           <div className="prose max-w-none mb-12">
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
               Every year, over 12 million Americans endure the devastating reality of intimate partner violence.
-              Here in Indiana, the crisis is staggering: nearly 43% of women and 28% of men will be targeted
+              Here in Indiana, the crisis is staggering: nearly 43% of adults will be targeted
               in their lifetimes.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
@@ -168,7 +168,7 @@ export function WhyDonate() {
             <h2 className="text-2xl mb-4">Every Gift Matters</h2>
             <p className="text-gray-700 mb-6 text-lg">
               Whether you give $25 or $2,500, you're providing safety, hope, and a
-              path to independence for women in crisis.
+              path to independence for adults in crisis.
             </p>
             <Link
               to="/donate"

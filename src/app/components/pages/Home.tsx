@@ -194,7 +194,7 @@ export function Home() {
             {[
               {
                 stat: "1 in 3",
-                label: "Indiana women experience intimate partner violence in their lifetime",
+                label: "Indiana adults experience intimate partner violence in their lifetime",
                 source: "IN Coalition Against Domestic Violence",
               },
               {
@@ -260,7 +260,7 @@ export function Home() {
               Make a difference today.
             </h2>
             <p className="text-lg text-[#4a6a52] mb-8 max-w-2xl mx-auto">
-              Your support provides safety, hope, and a path to independence for women
+              Your support provides safety, hope, and a path to independence for adults
               rebuilding their lives.
             </p>
             <Link

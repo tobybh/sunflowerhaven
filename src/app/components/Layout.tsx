@@ -149,7 +149,7 @@ export function Layout() {
                 </div>
               </div>
               <p className="text-[#cdd9cf] text-sm leading-relaxed">
-                Transitional housing and comprehensive support for women rebuilding
+                Transitional housing and comprehensive support for adults rebuilding
                 their lives in Chesterton, Indiana.
               </p>
               <p className="text-[#9fb3a4] text-xs mt-3 tracking-wider uppercase">Est. 2025</p>
