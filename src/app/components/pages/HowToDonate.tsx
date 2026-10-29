@@ -4,6 +4,7 @@ import {
   CreditCard,
   Mail,
   Heart,
+  TrendingUp,
   CheckCircle2,
   AlertCircle,
   Loader2,
@@ -308,6 +309,31 @@ export function HowToDonate() {
             >
               Email us <ArrowRight className="w-4 h-4" />
             </Link>
+          </div>
+
+          {/* Stock Donation */}
+          <div className="bg-white border border-[#e7e1d2] rounded-2xl p-8 mb-8">
+            <div className="flex items-center gap-4 mb-6">
+              <div className="bg-[#4a6a52] text-white w-12 h-12 rounded-full flex items-center justify-center">
+                <TrendingUp className="w-6 h-6" />
+              </div>
+              <h3
+                className="text-2xl text-[#2c3a30]"
+                style={{ fontFamily: "var(--font-display)" }}
+              >
+                Stock Donations
+              </h3>
+            </div>
+            <p className="text-[#5b6b5f]">
+              If you would like to donate stock, please email Mimi Hurst at{" "}
+              <a
+                href="mailto:Sunflowerhavenindiana@gmail.com"
+                className="font-semibold text-[#4a6a52] underline underline-offset-2 hover:text-[#3b5642]"
+              >
+                Sunflowerhavenindiana@gmail.com
+              </a>{" "}
+              for instructions.
+            </p>
           </div>
 
           {/* Other Ways */}
